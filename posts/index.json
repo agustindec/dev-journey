@@ -30,5 +30,21 @@
     "category": "Linux",
     "tags": ["Linux", "shell"],
     "excerpt": "Introducción a la shell de Linux"
+  },
+  {
+    "slug": "java-introduccion",
+    "title": "Introducción Java",
+    "date": "2026-08-21",
+    "category": "Java",
+    "tags": ["Java"],
+    "excerpt": "Introducción de Java"
+  },
+  {
+    "slug": "index-english",
+    "title": "Índice English",
+    "date": "2026-08-21",
+    "category": "Índice",
+    "tags": ["Índice", "English"],
+    "excerpt": "Contenido sobre English"
   }
 ]
