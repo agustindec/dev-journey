@@ -1,18 +1,18 @@
 [
   {
     "slug": "index-java",
-    "title": "Índice Java",
+    "title": "Java Core Roadmap",
     "date": "2026-07-13",
-    "category": "Índice",
-    "tags": ["Índice"],
-    "excerpt": "Contenido sobre Java y su ecosistema."
+    "category": "Roadmap",
+    "tags": ["Roadmap"],
+    "excerpt": "Java Core foundation."
   },
   {
     "slug": "index-linux",
-    "title": "Índice Linux",
+    "title": "Roadmap Linux",
     "date": "2026-08-13",
-    "category": "Índice",
-    "tags": ["Índice", "Linux"],
+    "category": "Roadmap",
+    "tags": ["Roadmap", "Linux"],
     "excerpt": "Contenido sobre Linux"
   },
   {
@@ -32,19 +32,27 @@
     "excerpt": "Introducción a la shell de Linux"
   },
   {
-    "slug": "java-introduccion",
-    "title": "Introducción Java",
+    "slug": "java-introduction",
+    "title": "Introduction to Java",
     "date": "2026-08-21",
     "category": "Java",
     "tags": ["Java"],
-    "excerpt": "Introducción de Java"
+    "excerpt": "Introduction to Java"
   },
   {
     "slug": "index-english",
-    "title": "Índice English",
+    "title": "Roadmap English",
     "date": "2026-08-21",
-    "category": "Índice",
-    "tags": ["Índice", "English"],
+    "category": "Roadmap",
+    "tags": ["Roadmap", "English"],
     "excerpt": "Contenido sobre English"
+  },
+  {
+    "slug": "java-variables-type-operators",
+    "title": "Variables, Types and Operatos",
+    "date": "2026-08-21",
+    "category": "Java",
+    "tags": ["Java"],
+    "excerpt": "Variables, Types and Operatos"
   }
 ]
