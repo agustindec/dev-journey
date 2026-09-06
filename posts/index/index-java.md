@@ -41,22 +41,22 @@
 
 * [ ] Variables
 
-  * [ ] Declaration and initialization
-  * [ ] Variable scope
-  * [ ] Local variables
-  * [ ] Instance variables
-  * [ ] Static variables
+  * [x] Declaration and initialization
+  * [x] Variable scope
+  * [x] Local variables
+  * [x] Instance variables
+  * [x] Static variables
 * [ ] Primitive types
 
-  * [ ] `byte`
-  * [ ] `short`
-  * [ ] `int`
-  * [ ] `long`
-  * [ ] `float`
-  * [ ] `double`
-  * [ ] `char`
-  * [ ] `boolean`
-* [ ] Reference types
+  * [x] `byte`
+  * [x] `short`
+  * [x] `int`
+  * [x] `long`
+  * [x] `float`
+  * [x] `double`
+  * [x] `char`
+  * [x] `boolean`
+* [x] Reference types
 * [ ] Primitive vs reference semantics
 * [ ] Default values
 * [ ] Literals
