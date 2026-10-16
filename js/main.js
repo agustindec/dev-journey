@@ -63,8 +63,15 @@ function renderPosts() {
 }
 
 function formatDate(dateStr) {
-  const d = new Date(dateStr);
-  return d.toLocaleDateString("es-AR", { year: "numeric", month: "long", day: "numeric" });
+  const [year, month, day] = dateStr.split("-").map(Number);
+
+  const d = new Date(year, month - 1, day);
+
+  return d.toLocaleDateString("es-AR", {
+    year: "numeric",
+    month: "long",
+    day: "numeric"
+  });
 }
 
 function escapeHtml(str) {

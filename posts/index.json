@@ -1,58 +1,149 @@
 [
   {
-    "slug": "index-java",
-    "title": "Java Core Roadmap",
-    "date": "2026-07-13",
+    "slug": "index-javascript",
+    "title": "JavaScript Roadmap",
+    "date": "2026-10-03",
     "category": "Roadmap",
-    "tags": ["Roadmap"],
-    "excerpt": "Java Core foundation."
+    "tags": [
+      "Roadmap"
+    ],
+    "excerpt": "Roadmap sobre JavaScript."
   },
   {
-    "slug": "index-linux",
-    "title": "Roadmap Linux",
-    "date": "2026-08-13",
-    "category": "Roadmap",
-    "tags": ["Roadmap", "Linux"],
-    "excerpt": "Contenido sobre Linux"
+    "slug": "javascript-variables-y-tipos",
+    "title": "Variables y Tipos",
+    "date": "2026-10-03",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Introducción",
+      "Variables",
+      "Tipos",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a las variables y tipos para JS-TS."
   },
   {
-    "slug": "linux-introduccion",
-    "title": "Introducción Linux",
-    "date": "2026-08-13",
-    "category": "Linux",
-    "tags": ["Linux"],
-    "excerpt": "Introducción sobre qué es Linux"
+    "slug": "javascript-operadores",
+    "title": "Operadores",
+    "date": "2026-10-03",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Introducción",
+      "Operadores",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Operadores para JS-TS."
   },
   {
-    "slug": "linux-shell",
-    "title": "Shell de Linux",
-    "date": "2026-08-16",
-    "category": "Linux",
-    "tags": ["Linux", "shell"],
-    "excerpt": "Introducción a la shell de Linux"
+    "slug": "javascript-truthy-falsy",
+    "title": "Truthy y Falsy",
+    "date": "2026-10-03",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Truthy",
+      "Falsy",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Truthy y Falsy para JS-TS."
   },
   {
-    "slug": "java-introduction",
-    "title": "Introduction to Java",
-    "date": "2026-08-21",
-    "category": "Java",
-    "tags": ["Java"],
-    "excerpt": "Introduction to Java"
+    "slug": "javascript-control-de-flujo",
+    "title": "Control de Flujo",
+    "date": "2026-10-12",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "if",
+      "else",
+      "else if",
+      "switch",
+      "for",
+      "for of",
+      "while",
+      "do while",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Control de Flujo para JS-TS."
   },
   {
-    "slug": "index-english",
-    "title": "Roadmap English",
-    "date": "2026-08-21",
-    "category": "Roadmap",
-    "tags": ["Roadmap", "English"],
-    "excerpt": "Contenido sobre English"
+    "slug": "javascript-funciones",
+    "title": "Funciones",
+    "date": "2026-10-12",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Function declaration",
+      "Function expression",
+      "Arrow function",
+      "Parameters",
+      "Optional parameters",
+      "Default parameters",
+      "Return values",
+      "Return functions",
+      "Callbacks",
+      "Higher order functions",
+      "Rest parameters",
+      "Spread array",
+      "Spread object",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Funciones para JS-TS."
   },
   {
-    "slug": "java-variables-type-operators",
-    "title": "Variables, Types and Operatos",
-    "date": "2026-08-21",
-    "category": "Java",
-    "tags": ["Java"],
-    "excerpt": "Variables, Types and Operatos"
+    "slug": "javascript-object-fundamentos",
+    "title": "Fundamentos de Objetos",
+    "date": "2026-10-15",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Object",
+      "Object access",
+      "Methods",
+      "Computed properties",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Fundamentos de Objetos para JS-TS."
+  },
+  {
+    "slug": "javascript-object-destructuring",
+    "title": "Destructuring de Objetos",
+    "date": "2026-10-15",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Object",
+      "Destructuring",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Destructuring de Objetos para JS-TS."
+  },
+  {
+    "slug": "javascript-object-metodos",
+    "title": "Métodos de Objetos",
+    "date": "2026-10-15",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Object",
+      "Methods",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Métodos de Objetos para JS-TS."
+  },
+  {
+    "slug": "javascript-object-mutabilidad",
+    "title": "Mutabilidad de Objetos",
+    "date": "2026-10-15",
+    "category": "JavaScript",
+    "tags": [
+      "JavaScript",
+      "Object",
+      "Mutability",
+      "TypeScript"
+    ],
+    "excerpt": "Introducción a Mutabilidad de Objetos para JS-TS."
   }
 ]
